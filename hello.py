@@ -1,3 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: UTF-8 -*-
+
 # Fibonacci numbers module
 
 def fib(n):    # write Fibonacci series up to n
